@@ -3,4 +3,4 @@
 
 
 
-./patagonia.png
+./patagonia.jpg
