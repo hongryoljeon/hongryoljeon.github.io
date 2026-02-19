@@ -5,7 +5,7 @@
 
 ![hongryoljeon](./patagonia.jpg)
 
-
+.
 <div align="center">
   <h2>🏔️ At the Zenith of the Colorado Trail</h2>
   <img src="./CT_sunrise.jpg" width="100%">
