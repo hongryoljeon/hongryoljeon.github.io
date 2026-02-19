@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Patagonia Episode I: The Silent Horizon"
-permalink: /bikepacking/patagonia-chile/
+permalink: /bikepacking/patagonia-chile
 ---
 
 # 🏔️ Patagonia Episode I: The Silent Horizoㅜ
