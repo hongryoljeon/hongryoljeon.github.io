@@ -24,7 +24,7 @@ The Andes taught me about the scale of systems. Navigating the border between Ch
 * [여행기 읽기 →](/bikepacking/patagonia-argentina/)
   
 <div align="center">
-  <img src="./patagonia.jpg" width="100%">
+  <img src="/patagonia.jpg" width="100%">
   <p><i>"The endless horizon of Patagonia."</i></p>
 </div>
 
@@ -35,6 +35,6 @@ The Andes taught me about the scale of systems. Navigating the border between Ch
 Thru-riding the rugged CT. This is where I learned that persistence is the most important variable in any model.
 
 <div align="center">
-  <img src="./CT_sunrise.jpg" width="100%">
+  <img src="/CT_sunrise.jpg" width="100%">
   <p><i>"Sunrise at the highest point of the Colorado Trail (4,045m)."</i></p>
 </div>
