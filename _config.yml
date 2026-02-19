@@ -1,0 +1,8 @@
+theme: jekyll-theme-minimal # 박사님이 쓰시는 테마 이름을 적으세요
+title: Hongryol Jeon
+description: ABM Researcher & Bikepacking Adventurer
+
+# 상단 메뉴 설정
+header_pages:
+  - index.md
+  - bikepacking.md
