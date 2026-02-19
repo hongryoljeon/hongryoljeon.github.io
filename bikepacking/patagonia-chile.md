@@ -4,7 +4,7 @@ title: "Patagonia Episode I: The Silent Horizon"
 permalink: /bikepacking/patagonia-chile/
 ---
 
-# 🏔️ Patagonia Episode I: The Silent Horizo
+# 🏔️ Patagonia Episode I: The Silent Horizoㅜ
 
 파타고니아 안데스 산맥의 칠레 구간을 횡단하며 기록한 첫 번째 여정입니다. 
 가장 낮은 곳에서 시작해 가장 높은 물리적 한계를 마주했던 기록들을 정리합니다.
