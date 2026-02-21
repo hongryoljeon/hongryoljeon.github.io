@@ -46,6 +46,7 @@ permalink: /bikepacking/patagonia-chile/
   <img src="../../pata_16.jpg" width="80%" style="display: block; margin-bottom: 20px; border-radius: 8px;">
   <img src="../../pata_15.jpg" width="80%" style="display: block; margin-bottom: 20px; border-radius: 8px;">
   <img src="../../pata_14.jpg" width="80%" style="display: block; margin-bottom: 20px; border-radius: 8px;">
+  <img src="../../bariloche.jpg" width="80%" style="display: block; margin-bottom: 20px; border-radius: 8px;">
   <img src="../../pata_13.jpg" width="80%" style="display: block; margin-bottom: 20px; border-radius: 8px;">
   <img src="../../pata_12.jpg" width="80%" style="display: block; margin-bottom: 20px; border-radius: 8px;">
   <img src="../../pata_11.jpg" width="80%" style="display: block; margin-bottom: 20px; border-radius: 8px;">
