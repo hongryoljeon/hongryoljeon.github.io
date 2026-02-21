@@ -59,14 +59,4 @@ permalink: /bikepacking/patagonia-chile/
   <img src="pata_1.jpg" width="80%" style="display: block; margin-bottom: 20px;">
 </div>
 
-
-
----
-
-### **📝 Journey Highlights**
-* **Location:** Pucon, Chile to Punta Arenas, Chile
-* **Expedition Style:** Solo Bikepacking
-
----
-
 [← Back to Bikepacking Hub](/bikepacking/)
