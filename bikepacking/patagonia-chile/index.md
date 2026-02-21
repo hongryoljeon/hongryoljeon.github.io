@@ -8,7 +8,17 @@ permalink: /bikepacking/patagonia-chile/
 ### **📷 Exploration Gallery**
 
 <div align="center">
-  <img src="/patagonia.jpg" width="100%">
+  <div id="gallery"></div>
+
+<script>
+  const gallery = document.getElementById('gallery');
+  for (let i = 1; i <= 49; i++) {
+    const img = document.createElement('img');
+    img.src = `pata_${50-i}.jpg`;
+    img.style.width = '50%';
+    gallery.appendChild(img);
+  }
+</script>
 </div>
 
 
