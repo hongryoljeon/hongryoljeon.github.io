@@ -9,6 +9,7 @@ permalink: /bikepacking/colorado/
 
 <div align="center">
   <img src="/CT1.jpg" width="80%">
+  <img src="/bear.jpg" width="80%">
   <img src="/CT2.jpg" width="80%">
   <img src="/CT3.jpg" width="80%">
   <img src="/BV.png" width="80%">
