@@ -60,6 +60,9 @@ permalink: /bikepacking/patagonia-chile/
   <img src="../../pata_3.jpg" width="80%" style="display: block; margin-bottom: 20px; border-radius: 8px;">
   <img src="../../pata_2.jpg" width="80%" style="display: block; margin-bottom: 20px; border-radius: 8px;">
   <img src="../../pata_1.jpg" width="80%" style="display: block; margin-bottom: 20px; border-radius: 8px;">
+  <img src="../../fitz.jpg" width="80%" style="display: block; margin-bottom: 20px; border-radius: 8px;">
+  <img src="../../fitz2.jpg" width="80%" style="display: block; margin-bottom: 20px; border-radius: 8px;">
+  <img src="../../perito.jpg" width="80%" style="display: block; margin-bottom: 20px; border-radius: 8px;">
 
  
 </div>
