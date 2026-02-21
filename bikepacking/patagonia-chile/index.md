@@ -15,7 +15,7 @@ permalink: /bikepacking/patagonia-chile/
     for (let i = 1; i <= 49; i++) {
       const img = document.createElement('img');
       // 역순 출력: 49, 48, ..., 1
-      img.src = `pata_${50-i}.jpg`; 
+      img.src = `/pata_${50-i}.jpg`; 
       img.style.width = '80%'; // 박사님, 50%보다는 80% 정도가 모바일/웹에서 보기에 더 시원할 겁니다!
       img.style.display = 'block'; // 세로로 깔끔하게 정렬
       img.style.marginBottom = '10px'; // 이미지 사이 간격
